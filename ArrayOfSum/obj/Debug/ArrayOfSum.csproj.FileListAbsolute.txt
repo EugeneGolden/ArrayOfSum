@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ArrayOfSum\ArrayOfSum\bin\Debug\ArrayOfSum.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ArrayOfSum\ArrayOfSum\obj\Debug\ArrayOfSum.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ArrayOfSum\ArrayOfSum\bin\Debug\ArrayOfSum.exe
+c:\users\admin\documents\visual studio 2015\Projects\ArrayOfSum\ArrayOfSum\bin\Debug\ArrayOfSum.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ArrayOfSum\ArrayOfSum\obj\Debug\ArrayOfSum.exe
+c:\users\admin\documents\visual studio 2015\Projects\ArrayOfSum\ArrayOfSum\obj\Debug\ArrayOfSum.pdb
