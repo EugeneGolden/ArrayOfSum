@@ -58,6 +58,8 @@ namespace ArrayOfSum
                 indexNegativeElement = -1;
                 for (int j = 0; j < order; j++)
                 {
+                    //если найдено отрицательный элемент в строке, то считаем сумму всех элементов, стоящих до данного элемента
+                    //если будет найдено несколько отрицательных элементов, то как результат возьмется последняя посчитанная сумма
                     if (array[i, j] < 0)
                     {
                         indexNegativeElement = j;
@@ -71,11 +73,13 @@ namespace ArrayOfSum
                         Console.WriteLine("into the array[" + i + "] = " + arraySumma[i]);
                     }
 
+                    //если отрицательный элемент в строке будет стоять в самом ее начале
                     else if (indexNegativeElement == 0)
                     {
                         arraySumma[i] = 0;
                     }
 
+                    //если в строке нет отрицательных элементов
                     else if (indexNegativeElement == -1)
                     {
                         arraySumma[i] = -1;
